@@ -1,6 +1,6 @@
 <?php
-$online=true;
-//$offline=true;
+//$online=true;
+$offline=true;
 if(isset($online))
 {
 $servername='localhost';     // Your MySql Server Name or IP address here
