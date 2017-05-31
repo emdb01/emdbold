@@ -1,0 +1,125 @@
+area in mvc
+scaffolding
+linq -- to get 2nd last student score from student table
+sql -- transaction syntax
+    -- diff between inner join & left join
+wcf -- types of contract
+    -- how do u host? types
+jquery -- how to call wcf service by using jquery
+session -- difference between inproc & outproc
+cache -- syntax
+razor -- diff between web form & razor engine
+entity framework -- what is EL
+3 tier achitecture
+partial view
+how do u transfer data from one page to another
+mvvm
+master page in mvc
+app_start in mvc
+UML diagrams
+
+Code first & DB first (entity framework)
+action link for edit/update button
+
+Web APIs
+Error handlers
+
+Difference between convert.tostring() and tostring()
+difference between javascript & jquery. the things we can do with jquery which cannot be done using javascript.
+union & union all
+oops (prepare thoroughly)
+database connectivity
+IEnumerable, IConvertible, IFormattable
+
+Lambda expression
+anonymous method
+compiletime and runtime polymorphism
+overriding and overloading
+action filters & examples
+mvc concepts
+tempdata
+Linq
+unique key and primary key
+clustered and non clustered index
+view in sql
+bundling
+static
+constant
+read only
+enabling validation
+
+View engines
+dependency injection
+dependency resolution
+indexes
+action methods
+action filters
+in jquery can we use other symbols apart from $ sign
+routing
+registered routing
+attribute routing
+sdlc life cycle
+deployement steps
+stored procedures
+triggers
+function
+html helpers
+view model
+mvc life cycle(flow)
+abc in wcf service
+serialization in wcf
+
+sql query - for 3rd highest sal
+	  - for showing student records where student name is null
+diff between web service & wcf service
+diff between $.post() and $.ajax(function(){type:post})
+protected and protected internal
+onexecuted and onexecuting
+truncate and delete
+viewbag,viewdata and tempdata
+area
+bundling
+scaffolding
+how to give authority to users for particular pages
+nullable types
+
+asp.net life cycle
+state management techniques
+diff bet mvc and asp.net
+response.redirect and server.response
+authenticaton and authorization
+types of validators
+indexes in sql
+diff bet stored procs & functions
+sql injection
+globalization and localization
+entity framework
+diff bet LINQ and entity framework
+
+In WCF service, will the service work even without interface?
+Can we overload methods in wcf service
+sql query for 2nd last salary of employee
+write logic for breaking 1-1000 to particular range with interval e.g: 1-100, 101-200, 201-300 etc
+view model
+Sorting techniques. Which is the most efficient/fast sorting technique?
+
+Mastek
+-------
+MVC life cyle
+Difference between ASP.NET and MVC
+How to maintain session management/Pass data from one page to another/state management techniques
+Diff between delete and truncate. Which will be faster? Can delete and truncate be rolled back?
+DDL in sql
+action filters
+view model
+sdlc life cycle
+IEnumerable, IQueryable
+Collection & generic collections
+agile methodology
+if any issue comes in the deployed site in production server, how will u resolve it?
+U have to deliver a module today and at EOD some issue occurs, then what will u do?
+entity framework and linq
+constraints in sql
+strengths and weakness
+short term goal and long term goal
+about my role, the team size I worked in

@@ -1,0 +1,162 @@
+﻿ 
+.user-section {
+    padding-bottom: 14px;
+    font-size: 22px;
+    background-color: #2166A2;
+}
+.user-section-inner {
+    height: 65px;
+width: 65px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+overflow: hidden;
+display: inline-block;
+float: left;
+margin-right: 15px;
+margin-top: 20px;
+}
+    .user-section-inner img {
+        margin-left:10px;
+        width:55px;
+        height:60px;
+        
+    }
+.user-info {
+    display: block;
+    color:#fff!important;
+display: inline-block;
+padding: 15px;
+margin-bottom: 0px
+}
+.user-text-online {
+    font-size:18px;
+    color:#fff
+}
+.user-circle-online {
+    width: 15px!important;
+    height: 15px!important;
+}
+
+/* side-menu section */
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color:rgba(74, 72, 126, 0);
+}
+.navbar-top-links  .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: #75C5B8;
+}
+.navbar-top-links > li > a {
+color: #015498;
+}
+.nav > li > a {
+padding: 10px 15px;
+}
+#side-menu {
+    background-color: #2166A2;
+}
+
+ #side-menu a {
+            color:#fff;
+           border-bottom: 1px solid #719DC3 !important;
+           height: 45px;
+        }
+        .selected {
+            background-color:rgb(83, 163, 163);
+        }
+/* back colors */
+        .blue {
+            background-color:#00c0ee;
+			color:#fff
+        }
+         .green {
+            background-color:#A4C105;
+			color:#fff
+        }
+          .red {
+            background-color:#f56954;
+			color:#fff
+        }
+        .yellow {
+            background-color:#f39c12;
+			color:#fff
+        }
+		.panel-eyecandy-title{
+			    font-weight: 600;
+				    color: #6D6D6D;
+		}
+.fa-fw {
+    margin-right: 10px;
+}
+  /* No border */
+.no-boder {
+    border:0px solid #5bc0de !important;
+	    background-color: transparent;
+		margin: 0px 10px 0px;
+		-webkit-box-shadow: none; 
+     box-shadow: none;
+		    
+}
+/* tap nvbar Section */
+
+#navbar {
+    background-color:white;
+	
+}
+
+.navbar-brand {
+    padding-left:20px;
+}
+.navbar-brand img {
+    height:49px;
+}
+.top-label {
+    position: absolute;
+top: 50%;
+right: 50%;
+margin-top: -24px;
+margin-right: -24px;
+}
+.navbar-brand {
+    float: left;
+    /* height: 50px; */
+    height: 58px;
+    padding: 7px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+/*large font*/
+.large-font {
+    font-size:18px;
+}
+
+.body-Login-back {
+    background-color:#84B899;
+}
+
+.margin-tips {
+    margin:5px;
+}
+.navbar-default {
+background-color: #2166A2;
+}
+/*media queries*/
+
+@media(min-width:768px) 
+{
+    #page-wrapper {
+        position: inherit;
+        margin: 0 0 0 250px;
+        padding: 0 30px;
+       /* min-height: 1000px;*/
+       
+       
+    }
+
+}
+
+@media(max-width:768px) {
+#wrapper {
+    margin-top:140px!important;
+    
+}
+}

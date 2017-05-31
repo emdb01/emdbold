@@ -1,0 +1,27 @@
+void bubblesort(int ar[],int n)
+{  int tmp,ctr;
+   for(int i=0;i<n;i++)
+   { for(int j=0;j<(n-1)-i;j++)
+     { if(ar[j]>ar[j+1])
+        { tmp=ar[j];
+          ar[j]=ar[j+1];
+          ar[j+1]=ar[j];}
+      }
+    cout<<"Array after pass-"<<++ctr<<"-is:";
+    for(int k=0;k<n;k++)
+    cout<<ar[k]<<' ';
+
+    }
+}
+void inssort(int ar[],int n)
+{  int tmp,j;
+   ar[0]=INT_MIN;
+   for(int i=1;i<=n;i++)
+   { tmp=ar[i];
+     j=i-1;
+     while(tmp<ar[j])
+     { ar[j+1]=ar[j];
+       j--;
+     }
+     ar[j+1]=tmp;
+          

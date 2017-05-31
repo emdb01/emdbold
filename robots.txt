@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+sitemap: http://www.employeemasterdatabase.com/sitemap.xml

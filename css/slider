@@ -1,0 +1,54 @@
+
+<?php 
+include('header.php');
+?>
+<div class="wrapper_1">
+
+	 <div class="section_2">
+           <div class="sec2">
+       
+
+                
+  
+
+<h2><center>BENEFITS</center> </h2>
+<h3 style="color:#015498">For Recruiters  </h3>
+  <ul class="benefits">
+<li>Get access to huge number for job seeker profiles</li>
+<li>Contact only available candidates and save time excluding unavailable profiles</li>
+<li>Create a single point access to all profiles – save them from system or upload from local database</li>
+<li>Find out the availability status of the candidates automatically upon uploading the profiles</li>
+<li>Sort out all the profiles into several sub-folders</li>
+<li>Use inbuilt messaging app to connect to job seekers with private contact details</li>
+<li>Create an account for prospective employee from your end</li>
+<li>Follow your desired candidates to get e-mail alerts as and when their status is changed</li>
+
+</ul>
+  <h3  style="color:#015498">For Job seekers</h3>
+  <ul class="benefits">
+<li>Create an account free of cost</li>
+<li>Improve your chances of finding the right job by uploading your profile and making it available to several recruiters </li>
+<li>Update your availability status in EMDB and avoid the need to change it in several job portals</li>
+<li>Get best possible position for your profile in recruiter search results by regularly updating your availability status </li>
+<li>Increase your profile views and interview calls</li>
+<li>Avoid unwanted calls (when not available)</li>
+<li>Get e-mail alerts for current openings</li>
+<li>Set your own privacy preferences</li>
+
+</ul>   
+               
+                  
+                      <h2><center>HOW IT WORKS</center></h2>
+           
+  <p style="line-height:28px;margin:20px 0px">Upon registering with EMDB, the candidates are assigned with an unique EMDB ID against which they update their availability status. The same ID is also mentioned on the profiles that they uploaded into the EMDB system. When recruiters get access to a desired profile from EMDB, they can use the EMDB ID mentioned on it to track the availability status of the candidate. This avoids the need to connect with the unavailable candidates and saves valuable time of the recruiters that can be further utilized on screening available candidates.</p>
+				 
+<!-- <p class="last_para">Job seeker can create a profile by registering to this website. Once registered you will receive an unique EMDB ID. Complete your profile and set your availability. Just copy paste your EMDB to any resume you create, your availability will get embedded in that resume. if you want to change your availability, just change it only in this website, the embed code in the resume will bear your latest availability setting.</p> -->
+           </div>
+	 </div>
+
+ </div>
+<div class="clear">
+</div>
+<?php 
+include('footer.php');
+?>

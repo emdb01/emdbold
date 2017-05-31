@@ -1,0 +1,440 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff24\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f24\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050203030202}Mangal{\*\falt Courier New};}{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}
+{\f39\fbidi \froman\fcharset2\fprq2{\*\panose 00000000000000000000}Wingdings 3;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}
+{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f41\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f42\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f44\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f45\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f46\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f47\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f48\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f49\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f51\fbidi \fswiss\fcharset238\fprq2 Arial CE;}{\f52\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f54\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f55\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f56\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f57\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f58\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f59\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f61\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}{\f62\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f64\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f65\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}{\f66\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f67\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f68\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f69\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f381\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f382\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
+{\f384\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f385\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f388\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f389\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
+{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}
+{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}
+{\fhimajor\f31536\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red70\green70\blue70;\red127\green127\blue127;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap 
+\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs24\alang1081 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\s1\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs24\alang1081 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \slink15 \sqformat heading 1;}{\s2\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs24\alang1081 
+\ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \slink16 \sqformat heading 2;}{\s3\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch\fcs1 
+\af24\afs24\alang1081 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \slink17 \sqformat heading 3;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
+Normal Table;}{\*\cs15 \additive \rtlch\fcs1 \ab\af0\afs29 \ltrch\fcs0 \b\fs29\kerning32\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink1 \slocked \spriority9 Heading 1 Char;}{\*\cs16 \additive \rtlch\fcs1 \ab\ai\af0\afs25 \ltrch\fcs0 
+\b\i\fs25\loch\f31502\hich\af31502\dbch\af31501 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 Heading 2 Char;}{\*\cs17 \additive \rtlch\fcs1 \ab\af0\afs23 \ltrch\fcs0 \b\fs23\loch\f31502\hich\af31502\dbch\af31501 
+\sbasedon10 \slink3 \slocked \ssemihidden \spriority9 Heading 3 Char;}{\*\cs18 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid13332526 apple-converted-space;}{\*\cs19 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 
+\sbasedon10 \sunhideused \styrsid14580143 Hyperlink;}{\*\cs20 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid14580143 xn-location;}{
+\s21\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext21 \ssemihidden \sunhideused \styrsid14580143 Normal (Web);}}{\*\listtable{\list\listtemplateid67698699\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\'01\u-3880 ?;}{\levelnumbers;}\f10\fs24\fbias0 \fi-360\li720\lin720 }{\listname ;}\listid1168945910}{\list\listtemplateid1208154470\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698699\'01\u-3880 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698691
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1512798385}{\list\listtemplateid-492402762\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698699\'01\u-3880 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\lin4320 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\lvltentative\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\lin6480 }{\listname ;}\listid1517765646}{\list\listtemplateid-2110719596\listhybrid{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\leveltext\leveltemplateid1168945910\'01\u-3926 ?;}{\levelnumbers;}\f39\fs24\fbias0 \fi-360\li360\jclisttab\tx360\lin360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5400
+\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }
+{\listname ;}\listid1821966642}{\list\listtemplateid-1797505378\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\leveltext\leveltemplateid1168945910\'01\u-3926 ?;}{\levelnumbers;}
+\f39\fs24\fbias0 \fi-360\li360\jclisttab\tx360\lin360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listname ;}\listid1829445426}}{\*\listoverridetable{\listoverride\listid1829445426\listoverridecount0\ls1}{\listoverride\listid1821966642\listoverridecount0\ls2}
+{\listoverride\listid1168945910\listoverridecount0\ls3}{\listoverride\listid1517765646\listoverridecount0\ls4}{\listoverride\listid1512798385\listoverridecount0\ls5}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid269434\rsid1317283
+\rsid1915236\rsid3045714\rsid3495003\rsid3619211\rsid3813968\rsid4268782\rsid4488936\rsid4553785\rsid4598932\rsid4805260\rsid5066467\rsid6775899\rsid7472152\rsid8486784\rsid9137655\rsid10692649\rsid10695981\rsid11547855\rsid12916550\rsid13332526
+\rsid13462429\rsid13776801\rsid14024811\rsid14186109\rsid14188395\rsid14580143\rsid15012557\rsid16283168\rsid16518793}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info
+{\author a11}{\operator kanika}{\creatim\yr2015\mo12\dy14\hr6\min30}{\revtim\yr2016\mo7\dy30\hr17\min11}{\version21}{\edmins72}{\nofpages3}{\nofwords741}{\nofchars4230}{\nofcharsws4962}{\vern57433}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office
+/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\viewnobound1\rsidroot11547855 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}
+{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9
+\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\s3\ql \li0\ri0\keepn\nowidctlpar\tx1800\wrapdefault\faauto\outlinelevel2\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs24\alang1081 \ltrch\fcs0 
+\fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1                                        }{
+\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 CURRICULAM VITAE
+\par 
+\par }\pard\plain \ltrpar\s2\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel1\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs24\alang1081 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 NITIN GAUTAM
+\par }\pard\plain \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs24\alang1081 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af1\afs18 
+\ltrch\fcs0 \b\f1\fs18\insrsid8486784 \hich\af1\dbch\af31505\loch\f1 Phone:  }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 +919716961355
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\lang1031\langfe1033\langnp1031\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 E-Mail: }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\ul\cf2\insrsid4598932\charrsid14186109 
+\hich\af1\dbch\af31505\loch\f1 gautamnitin2711@gmail.com
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 ================================================================================}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932 
+
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid5066467\charrsid14186109 
+\par }\pard\plain \ltrpar\s1\ql \li0\ri0\sl276\slmult1\keep\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \af24\afs24\alang1081 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Summary of Skills and Experience:}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932 
+\par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid5066467 \rtlch\fcs1 \af24\afs24\alang1081 \ltrch\fcs0 \fs24\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af24 
+\ltrch\fcs0 \insrsid5066467\charrsid5066467 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid5066467 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid5066467\charrsid5066467 \hich\af1\dbch\af31505\loch\f1 
+Business Development with over 4 years of experience}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid3495003 \hich\af1\dbch\af31505\loch\f1 s}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid5066467\charrsid5066467 \hich\af1\dbch\af31505\loch\f1 
+. I have p}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid5066467\charrsid5066467 \hich\af1\dbch\af31505\loch\f1 roven abilities in }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid5066467\charrsid5066467 
+\hich\af1\dbch\af31505\loch\f1 BDA & Marketing,}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid5066467\charrsid5066467 \hich\af1\dbch\af31505\loch\f1  Work with E-Commerce Retail & }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 
+\f1\fs18\cf1\insrsid3495003\charrsid5066467 \hich\af1\dbch\af31505\loch\f1 Automobiles}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid5066467\charrsid5066467 \hich\af1\dbch\af31505\loch\f1  Industry & Hand }{\rtlch\fcs1 \ab\af1\afs18 
+\ltrch\fcs0 \f1\fs18\cf1\insrsid3045714 \hich\af1\dbch\af31505\loch\f1 Tools Manufacturing Unit}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid5066467\charrsid5066467 .
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932 
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid5066467\charrsid5066467 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 ===========================================================================
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl360\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Professional Graph:}{\rtlch\fcs1 
+\ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid5066467 \hich\af1\dbch\af31505\loch\f1  }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 (}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 
+\f1\fs18\insrsid4598932\charrsid15012557 \hich\af1\dbch\af31505\loch\f1 Total }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid9137655\charrsid15012557 \hich\af1\dbch\af31505\loch\f1 4}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 
+\f1\fs18\insrsid4598932\charrsid15012557 \hich\af1\dbch\af31505\loch\f1  Years Experience in }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid5066467\charrsid15012557 \hich\af1\dbch\af31505\loch\f1 Business Development &}{\rtlch\fcs1 \ab\af1\afs18 
+\ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid15012557 \hich\af1\dbch\af31505\loch\f1  Marketing}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 )
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl360\slmult1\nowidctlpar\brdrb\brdrdb\brdrw15\brsp20 \wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Work}{\rtlch\fcs1 
+\af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid9137655\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 ing}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  with}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f1\fs18\insrsid9137655\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid6775899\charrsid6775899 \hich\af1\dbch\af31505\loch\f1 Notiby Tech}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\b\f1\fs18\insrsid5066467 \hich\af1\dbch\af31505\loch\f1 n}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid6775899\charrsid6775899 \hich\af1\dbch\af31505\loch\f1 o}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid9137655\charrsid6775899 
+\hich\af1\dbch\af31505\loch\f1 log}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid6775899\charrsid6775899 \hich\af1\dbch\af31505\loch\f1 ies}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid6775899 \hich\af1\dbch\af31505\loch\f1  P}{
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid9137655\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 vt. Ltd.}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  (}{\rtlch\fcs1 
+\ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid6775899 \hich\af1\dbch\af31505\loch\f1 Kirti Nagar, New Delhi}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 )}{\rtlch\fcs1 \af1\afs18 
+\ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  as }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid6775899 \hich\af1\dbch\af31505\loch\f1 Associated Business Development}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 .}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid5066467 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid12916550 
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl360\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 COMPANY PROFILE}{\rtlch\fcs1 \ab\af1\afs18 
+\ltrch\fcs0 \b\f1\fs18\ul\insrsid5066467 \hich\af1\dbch\af31505\loch\f1  :
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4268782 \hich\af1\dbch\af31505\loch\f1 Notiby }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid9137655\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Technolog}{\rtlch\fcs1 \af1\afs18 
+\ltrch\fcs0 \b\f1\fs18\insrsid4268782 \hich\af1\dbch\af31505\loch\f1 ies}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid9137655\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  Pvt. Ltd.}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\b\f1\fs18\insrsid4268782 \hich\af1\dbch\af31505\loch\f1  (New Delhi)}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid5066467 
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid5066467\charrsid14024811 \hich\af1\dbch\af31505\loch\f1  HYPERLINK "http://www.notiby.com/" \\t "_blank" }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\b\f1\fs18\insrsid4553785\charrsid14024811 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000083000000070000005f0062006c0061006e006b000000e0c9ea79f9bace118c8200aa004ba90b4600000068007400740070003a002f002f007700770077002e006e006f0074006900620079002e0063006f006d002f000000795881f43b1d7f48af2c825dc48527630000
+0000a5ab00030000}}}{\fldrslt {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \cs19\b\f1\fs18\ul\chshdng0\chcfpat0\chcbpat8\insrsid5066467\charrsid14024811 \hich\af1\dbch\af31505\loch\f1 Notiby Technologies Pvt. Ltd.}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \cs18\f1\fs18\cf17\chshdng0\chcfpat0\chcbpat8\insrsid5066467\charrsid5066467 \~}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf17\chshdng0\chcfpat0\chcbpat8\insrsid5066467\charrsid5066467 \hich\af1\dbch\af31505\loch\f1 
+is}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \cs18\f1\fs18\cf17\chshdng0\chcfpat0\chcbpat8\insrsid5066467\charrsid5066467 \~}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \cs20\f1\fs18\cf17\chshdng0\chcfpat0\chcbpat8\insrsid5066467\charrsid5066467 
+\hich\af1\dbch\af31505\loch\f1 India's}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \cs18\f1\fs18\cf17\chshdng0\chcfpat0\chcbpat8\insrsid5066467\charrsid5066467 \~}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f1\fs18\cf17\chshdng0\chcfpat0\chcbpat8\insrsid5066467\charrsid5066467 \hich\af1\dbch\af31505\loch\f1 
+largest iBeacon powered hyperlocal mobile platform that enables retailers, big or small, to target, engage and interact with select audience, and also provides Retail Analytic Dashboard to measure and optimize results of interaction-based marketing campai
+\hich\af1\dbch\af31505\loch\f1 g\hich\af1\dbch\af31505\loch\f1 ns.}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid5066467\charrsid5066467 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9137655 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid9137655\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Job Profile & Responsibilities:}{
+\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid14186109 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid14580143 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid14580143\charrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143\charrsid14580143 \hich\af1\dbch\af31505\loch\f1 
+Planning and implementing consumer schemes, trade schemes and promotion activities through offers, incentives, rallies and cold calls.
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid14580143\charrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\tx4680\wrapdefault{\*\pn 
+\pnlvlblt\ilvl0\ls3\pnrnot0\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143\charrsid14580143 
+\hich\af1\dbch\af31505\loch\f1 Accountable for managing the sales and marketi\hich\af1\dbch\af31505\loch\f1 ng operations (knowledge product selling)
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid14580143\charrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143\charrsid14580143 \hich\af1\dbch\af31505\loch\f1 
+Driving sales initiatives to achieve business goals & managing the frontline sales team to achieve them. 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid14580143\charrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143\charrsid14580143 \hich\af1\dbch\af31505\loch\f1 
+Evolving market segmentation & penetration strategies to achieve targets
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid14580143\charrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143\charrsid14580143 \hich\af1\dbch\af31505\loch\f1 
+Attending customers concer\hich\af1\dbch\af31505\loch\f1 ns & complaints and undertaking steps for effectively resolving them.
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid14580143\charrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143\charrsid14580143 \hich\af1\dbch\af31505\loch\f1 
+Interacting with the customers to gather their feedback regarding the products\hich\f1 \rquote \loch\f1  utilities.
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid14580143\charrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143\charrsid14580143 \hich\af1\dbch\af31505\loch\f1 
+Maintaining cordial relations with customers to sustain the profitability of the business.}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143 
+\par }\pard \ltrpar\qj \li720\ri0\widctlpar\tx720\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid3495003 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid3495003\charrsid14580143 
+\par }\pard \ltrpar\qj \li720\ri0\widctlpar\tx720\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1 \ltrch\fcs0 \f1\insrsid14580143\charrsid13776801 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9137655 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid14580143\charrsid14186109 
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl360\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9137655 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid9137655\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 COMPANY PROFILE
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl360\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+G B TOOLS & FORGINGS LIMITED (UNIT  JALANDHAR & HIMACHAL)}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl360\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 GB Tools & Forgings Limited\~
+(Formerly knowing as\~\~Ambika Forgings Ltd)\~in India since 1977. 14001:2004  & ISO 9001:2008 }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+ Hand Tools & Forging Auto Parts manufacturer}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  with brand name. We are\~
+caters many overseas market with along domestic market. GB Tools & Forgings Limited have two manufacturing plants Punjab & Himachal with the corporate office in New Delhi.}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid14186109 
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid3495003 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid5066467 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid14186109 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Job Profile & Responsibilities:
+\par 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid14580143 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa20\sl276\slmult1\nowidctlpar
+\tx720\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid14580143 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14580143 \hich\af1\dbch\af31505\loch\f1 Payment R\hich\af1\dbch\af31505\loch\f1 econciliation }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Details
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Sales and order booking Statement}{\rtlch\fcs1 \af1\afs18 
+\ltrch\fcs0 \f1\fs18\insrsid4598932 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid16518793\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa20\sl276\slmult1\nowidctlpar
+\tx720\wrapdefault\faauto\ls4\rin0\lin720\itap0\pararsid16518793 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16518793\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Involves traveling extensively in the required regions.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid16518793\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Maintain healthy relationship with the customer}{\rtlch\fcs1 
+\af1\afs18 \ltrch\fcs0 \f1\fs18\cf18\insrsid16518793\charrsid14186109 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid16518793\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16518793\charrsid14186109 
+\hich\af1\dbch\af31505\loch\f1 Order-amendments and Customer Complaints}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid16518793\charrsid14186109 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid16518793\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16518793\charrsid14186109 
+\hich\af1\dbch\af31505\loch\f1 Manage and coordinate with channel partners}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16518793 
+\par }\pard \ltrpar\ql \li720\ri0\sa20\sl276\slmult1\nowidctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0\pararsid3495003 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid3495003 
+\par }\pard \ltrpar\ql \li1470\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin1470\itap0 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\qj \li0\ri0\sa200\sl360\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 COMPANY PROFILE }{\rtlch\fcs1 \ab\af1\afs18 
+\ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1     
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid4805260 \hich\af1\dbch\af31505\loch\f1 OTSUKA VENUS AUTOMOTIVE INDIA PVT. LTD., FARIDABAD (HR):}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid4805260 
+\hich\af1\dbch\af31505\loch\f1  Otsuka Venus Automotive India Pvt. Ltd. is the collaboration company between Otsuka Koki, Japan & Venus Industrial Corp. India. The Plant was established in 2011 at Faridabad lo\hich\af1\dbch\af31505\loch\f1 cation, }{
+\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid4805260 \hich\af1\dbch\af31505\loch\f1 manufacturing of Parking Brake assy. for Customers like MARUTI SUZUKI INDIA LTD, HONDA SEIL CARS INDIA LTD, NISSAN , DUSTON MOTORS .}{
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid4805260 \hich\af1\dbch\af31505\loch\f1 Still Projects are running of TATA, GM, and M&M}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid4805260 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid11547855\charrsid14186109 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Job Profile & Responsibilities:
+\par 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sl276\slmult1
+\nowidctlpar\wrapdefault\faauto\ls5\rin0\lin720\itap0\pararsid4488936 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 To achieve the sales target, both in terms of value and volume of all items
+
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Closely monitoring  Sales trend
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Customer follow up, Customer Satisfaction
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Involves traveling extensively in the required regions.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Maintain healthy relationship with the customer
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Order-amendments and Customer Complaints
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Develop sales and service channel
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\fs18\insrsid4598932\charrsid14186109 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}\hich\af1\dbch\af31505\loch\f1 Achieve sales targets in designated area}{\rtlch\fcs1 \af1\afs18 
+\ltrch\fcs0 \f1\fs18\insrsid4598932 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid14186109 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid14186109\charrsid14186109 
+\par }\pard \ltrpar\ql \li1470\ri0\sa20\sl276\slmult1\nowidctlpar\tx720\wrapdefault\faauto\rin0\lin1470\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+====================================================================================\hich\af1\dbch\af31505\loch\f1 ===}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid11547855\charrsid14186109 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\cf1\insrsid15012557 
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Education:
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sa20\sl276\slmult1\nowidctlpar\tx720\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+          Pursuing MBA From Manav Bharti University}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid14580143 ,}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  Himachal Pradesh.
+
+\par \hich\af1\dbch\af31505\loch\f1           B.Com  Passed  from  M.D.University Rohtak 2011. }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1           12}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f1\fs18\cf1\super\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 th}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1   Passed  from  CBSE .
+\par \hich\af1\dbch\af31505\loch\f1           10}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\super\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 th }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932\charrsid14186109 
+\hich\af1\dbch\af31505\loch\f1 Passed  from  HBSE.
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid4598932 
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid15012557 
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid15012557\charrsid14186109 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Computer Proficiency:}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\ql \li720\ri0\sl276\slmult1\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1              }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f1\fs18\insrsid14186109\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Tally 9.2, }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 ERP
+\par \hich\af1\dbch\af31505\loch\f1              MS-Office, }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932 
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid3495003 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid3495003\charrsid14186109 
+\par }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1              }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid14186109\charrsid14186109 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 ================================================================================}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 
+\b\f1\fs18\insrsid4598932 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0\pararsid1317283 {\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 PERSONAL SKILLS:}{\rtlch\fcs1 
+\ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid1317283\charrsid1317283 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid1317283\charrsid1317283 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 
+Comprehensive problem solving abilities
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid1317283\charrsid1317283 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 
+ Good verbal and written communication skills
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid1317283\charrsid1317283 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 
+ Ability to deal with people diplomatically
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid1317283\charrsid1317283 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 
+ Willingness to learn 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid1317283\charrsid1317283 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 
+Team facilitator hard worker
+\par }\pard \ltrpar\qj \li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1  }{
+\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 EXTRA CURRICULAR ACTIVITIES}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\cf1\insrsid1317283\charrsid1317283 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid1317283\charrsid1317283 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 
+Work as volunteer in NCC }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16283168\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 Programs}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid10695981 \hich\af1\dbch\af31505\loch\f1  in college}{
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 . 
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af1\afs18\alang1081 \ltrch\fcs0 \f10\insrsid1317283\charrsid1317283 \loch\af10\dbch\af31505\hich\f10 \'d8\tab}}\pard \ltrpar\qj \fi-360\li720\ri0\widctlpar\tx720\wrapdefault{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0
+\pnf10\pnfs24\pnstart1\pnindent360\pnsp120\pnhang {\pntxtb \'d8}}\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0\pararsid1317283 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 
+Participate in college}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16283168 \hich\af1\dbch\af31505\loch\f1  cultural activities }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 during 1}{
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\super\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 st}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1  & 2}{\rtlch\fcs1 \af1\afs18 
+\ltrch\fcs0 \f1\fs18\super\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1 nd}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid1317283\charrsid1317283 \hich\af1\dbch\af31505\loch\f1  year Annual Festival 
+\par }\pard \ltrpar\ql \li0\ri0\sa200\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid4805260 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4488936 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+====================================================================================
+\par 
+\par }{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\ul\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Personal Details:
+\par }\pard \ltrpar\qj \fi-360\li180\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin180\itap0\pararsid16283168 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4805260 \hich\af1\dbch\af31505\loch\f1     }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 
+\f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Father\hich\f1 \rquote \loch\f1 s Name\tab \tab :\tab Sh. R.P. }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16283168 \hich\af1\dbch\af31505\loch\f1 Gautam}{\rtlch\fcs1 
+\af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\qj \fi-360\li180\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin180\itap0\pararsid16283168 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1     Date of birth \tab \tab :
+\tab July 27}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\super\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 th}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 , 1989
+\par \hich\af1\dbch\af31505\loch\f1     Marital status\tab \tab : \tab Unmarried
+\par }\pard \ltrpar\qj \fi-360\li180\ri0\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx3600\tx4660\wrapdefault\faauto\rin0\lin180\itap0\pararsid16283168 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\hich\af1\dbch\af31505\loch\f1    }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid11547855\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  Languages known\tab :         }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\hich\af1\dbch\af31505\loch\f1 Hindi & English\tab 
+\par }\pard \ltrpar\qj \fi-360\li180\ri0\sl276\slmult1\nowidctlpar\wrapdefault\faauto\rin0\lin180\itap0\pararsid16283168 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid11547855\charrsid14186109 \hich\af1\dbch\af31505\loch\f1     Address \tab         }{
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  :\tab Sector-55, Faridabad
+\par }\pard \ltrpar\qj \fi-180\li0\ri0\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx4300\wrapdefault\faauto\rin0\lin0\itap0\pararsid16283168 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+    Pre}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid11547855\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 sent Salary           :         }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid3619211 \hich\af1\dbch\af31505\loch\f1 3.8}{
+\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid16283168 \hich\af1\dbch\af31505\loch\f1 Lac/annum}{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\qj \li-180\ri0\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx4300\wrapdefault\faauto\rin0\lin-180\itap0\pararsid16283168 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid11547855\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+    Expected Salary\tab :          }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 Negotiable
+\par }\pard \ltrpar\ql \li-180\ri0\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx4300\wrapdefault\faauto\rin0\lin-180\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\ql \li0\ri0\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx4300\wrapdefault\faauto\rin0\lin0\itap0\pararsid11547855 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 
+\par }\pard \ltrpar\ql \li-180\ri0\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx4300\wrapdefault\faauto\rin0\lin-180\itap0 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1  
+\hich\af1\dbch\af31505\loch\f1                                                                                                                                               
+\par }\pard \ltrpar\qr \li-180\ri0\sl276\slmult1\nowidctlpar\tx720\tx1440\tx2160\tx2880\tx4300\wrapdefault\faauto\rin0\lin-180\itap0\pararsid11547855 {\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932\charrsid14186109 \hich\af1\dbch\af31505\loch\f1 
+                                                                                                                 \hich\af1\dbch\af31505\loch\f1                               }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid11547855\charrsid14186109 
+\hich\af1\dbch\af31505\loch\f1                        }{\rtlch\fcs1 \af1\afs18 \ltrch\fcs0 \f1\fs18\insrsid4598932 \hich\af1\dbch\af31505\loch\f1 (}{\rtlch\fcs1 \ab\af1\afs18 \ltrch\fcs0 \b\f1\fs18\insrsid4598932 \hich\af1\dbch\af31505\loch\f1 
+NITIN GAUTAM)
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b03041400060008000000210096b5ade296060000501b0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87
+615b8116d8a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad
+79482a9c0498f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b
+5d8a314d3c94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab
+999fb7b4717509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9
+699640f6719e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd586
+8b37a088d1e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d6
+0cf03ac1a5193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f
+9e7ef3f2d117d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be
+15c308d3f28acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a9979
+3849c26ae66252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d
+32a423279a668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2a
+f074481847bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86
+e877f0034e16bafb0e258ebb4faf06b769e888340b103d3311da9750aa9d0a1cd3e4efca31a3508f6d0c5c5c398602f8e2ebc71591f5b616e24dd893aa3261fb
+44f95d843b5974bb5c04f4edafb95b7892ec1108f3f98de75dc97d5772bdff7cc95d94cf672db4b3da0a6557f70db629362d72bcb0431e53c6066acac80d699a
+6409fb44d08741bdce9c0e4971624a2378cceaba830b05366b90e0ea23aaa241845368b0eb9e2612ca8c742851ca251ceccc70256d8d87265dd96361531f186c
+3d9058edf2c00eafe8e1fc5c509031bb4d680e9f39a3154de0accc56ae644441edd76156d7429d995bdd88664a9dc3ad50197c38af1a0c16d684060441db0256
+5e85f3b9660d0713cc48a0ed6ef7dedc2dc60b17e92219e180643ed27acffba86e9c94c78ab90980d8a9f0913ee49d62b512b79626fb06dccee2a432bbc60276
+b9f7dec44b7904cfbca4f3f6443ab2a49c9c2c41476dafd55c6e7ac8c769db1bc399161ee314bc2e75cf8759081743be1236ec4f4d6693e5336fb672c5dc24a8
+c33585b5fb9cc24e1d4885545b58463634cc5416022cd19cacfccb4d30eb45296023fd35a458598360f8d7a4003bbaae25e331f155d9d9a5116d3bfb9a95523e
+51440ca2e0088dd844ec6370bf0e55d027a012ae264c45d02f708fa6ad6da6dce29c255df9f6cae0ec38666984b372ab5334cf640b37795cc860de4ae2816e95
+b21be5ceaf8a49f90b52a51cc6ff3355f47e0237052b81f6800fd7b802239daf6d8f0b1571a8426944fdbe80c6c1d40e8816b88b8569082ab84c36ff0539d4ff
+6dce591a26ade1c0a7f669880485fd484582903d284b26fa4e2156cff62e4b9265844c4495c495a9157b440e091bea1ab8aaf7760f4510eaa69a6465c0e04ec6
+9ffb9e65d028d44d4e39df9c1a52ecbd3607fee9cec7263328e5d661d3d0e4f62f44acd855ed7ab33cdf7bcb8ae889599bd5c8b3029895b6825696f6af29c239
+b75a5bb1e6345e6ee6c28117e73586c1a2214ae1be07e93fb0ff51e133fb65426fa843be0fb515c187064d0cc206a2fa926d3c902e907670048d931db4c1a449
+59d366ad93b65abe595f70a75bf03d616c2dd959fc7d4e6317cd99cbcec9c58b34766661c7d6766ca1a9c1b327531486c6f941c638c67cd22a7f75e2a37be0e8
+2db8df9f30254d30c1372581a1f51c983c80e4b71ccdd28dbf000000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468
+656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4
+350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d2624
+52282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe5141
+73d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c020000130000000000000000
+0000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000
+000000000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c0000000000000000000000000019
+0200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210096b5ade296060000501b00001600000000
+000000000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b01000027
+00000000000000000000000000a00900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d0100009b0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax371\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdlocked0 heading 1;\lsdqformat1 \lsdlocked0 heading 2;
+\lsdqformat1 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;
+\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdpriority59 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;
+\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;
+\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;
+\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;
+\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdsemihidden1 \lsdlocked0 Revision;\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;
+\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;
+\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;
+\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;
+\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;
+\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61 \lsdlocked0 Light List Accent 3;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdpriority62 \lsdlocked0 Light Grid Accent 5;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000d02b
+084657ead101feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}

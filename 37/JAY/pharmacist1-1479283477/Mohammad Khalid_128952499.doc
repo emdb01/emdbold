@@ -1,0 +1,30 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"><title>Sign in - Google Accounts</title> <style>
+body {
+  color: #222;
+  font-family: arial,sans-serif;
+  font-size: small;
+  margin: 0 .5em;
+}
+label {
+  display: block;
+  font-size: 107%;
+  margin-top: .25em;
+}
+.email-div label {
+  font-weight: bold;
+}
+.passwd-div label {
+  font-weight: bold;
+}
+.email-div input, .passwd-div input {
+  width: 90%;
+}
+.error-msg {
+  display: block;
+  font-size: 11px;
+  color: red;
+}
+.passwd-div a.help-link {
+  display: none;
+}
+</style> </head><body><div style="background: #eee; margin: 0 -.5em; padding: .5em"><img src="//ssl.gstatic.com/accounts/ui/logo_sm.png" border="0" align="bottom" height="20" width="60" alt="Google"><div style="font-size: 125%; font-weight: bold; margin-bottom: 3px">Sign in with your Google Account</div><div style="font-size: 103%;"><a id="link-signup" href="https://accounts.google.com/SignUp?hl=en&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fs%2F&amp;service=mail">Create an account </a></div></div><form novalidate id="gaia_loginform" method="post" action="https://accounts.google.com/ServiceLogin"><div style="margin-left: .25em;"><input name="GALX" type="hidden" value="uyqXRTJSAy4"> <input name="continue" type="hidden" value="https://mail.google.com/mail/s/"> <input name="service" type="hidden" value="mail"> <input name="nui" type="hidden" value="5"> <input name="ltmpl" type="hidden" value="ecobx"> <input name="btmpl" type="hidden" value="mobile"> <input name="scc" type="hidden" value="1"> <input name="ss" type="hidden" value="1"> <input type="hidden" id="_utf8" name="_utf8" value="&#9731;"/> <input type="hidden" name="bgresponse" id="bgresponse" value="js_disabled"><div class="email-div"><label class="stacked-label" for="Email">Email</label> <input id="Email" name="Email" type="email" placeholder="Email" value="" spellcheck="false" class=""></div><div class="passwd-div"><label class="stacked-label" for="Passwd">Password</label> <input id="Passwd" name="Passwd" type="password" placeholder="Password" class=""></div><input id="PersistentCookie" name="PersistentCookie" type="checkbox" value="yes" checked="checked"> Stay signed in <input type="hidden" name="rmShown" value="1"><br><input type="submit" name="signIn" style="margin-top: .5em" id="signIn" value="Sign in"><div style="margin: .5em 0"><a id="link-forgot-passwd" style="color: #15C; text-decoration: none;" href="https://accounts.google.com/RecoverAccount?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fs%2F">Need help? </a></div></div></form><div style="background-color: #eee; margin: 1em -.5em 0 -.5em; padding: 8px 0; text-align: center">Google | <a href="http://m.google.com/tospage?hl=en">Terms of Service</a> | <a href="http://m.google.com/privacy?hl=en">Privacy Policy</a> | <a href="http://m.google.com/m/help?hl=en">Help</a></div></body></html>
